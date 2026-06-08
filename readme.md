@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>OlekAleksander</h1>
+  <h1 align="center">OlekAleksander</h1>
   <font size="20">Aleksander R.</font>
 </p>
 
