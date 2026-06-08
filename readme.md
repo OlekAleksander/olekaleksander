@@ -1,4 +1,4 @@
-<h1>OlekAleksander</h1>
+<h1 align="center">OlekAleksander</h1>
 <p align="center">
   <font size="5">Aleksander R.</font>
 </p>
