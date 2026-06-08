@@ -1,7 +1,8 @@
 <h1 align="center">OlekAleksander</h1>
-
 <p align="center">
-  <strong>Aleksander R.</strong><br/>
+  <sub>Aleksander R.</sub>
+</p>
+<p align="center">
   Crafting digital experiences through modern web technologies.
 </p>
 
@@ -17,8 +18,6 @@
     <img src="https://shieldcn.dev/badge/Working%20at-SummerHosting.pl-3a81f6.svg?variant=outline" alt="Working at SummerHosting.pl" />
   </a>
 </p>
-
----
 
 <h2 align="center">Tech Stack</h2>
 
