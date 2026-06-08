@@ -1,5 +1,9 @@
-<h1 align="center">OlekAleksander</h1>
-<h2 align="center"><sub>Aleksander R.</sub></h2>
+<p align="center">
+  <font size="7"><b>OlekAleksander</b></font>
+</p>
+<p align="center">
+  <font size="5">Aleksander R.</font>
+</p>
 
 <p align="center">
   Crafting digital experiences through modern web technologies.
