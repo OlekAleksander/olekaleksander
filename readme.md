@@ -1,7 +1,6 @@
 <h1 align="center">OlekAleksander</h1>
-<p align="center">
-  <sub>Aleksander R.</sub>
-</p>
+<h2 align="center"><sub>Aleksander R.</sub></h2>
+
 <p align="center">
   Crafting digital experiences through modern web technologies.
 </p>
@@ -22,7 +21,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://shieldcn.dev/badge/Next.js-black.svg?variant=outline" alt="Next.js" />
+  <img src="https://shieldcn.dev/badge/Next.js-white.svg?variant=outline" alt="Next.js" />
   <img src="https://shieldcn.dev/badge/TanStack%20Start-ff6b35.svg?variant=outline" alt="TanStack Start" />
   <img src="https://shieldcn.dev/badge/React-61dafb.svg?variant=outline" alt="React" />
   <img src="https://shieldcn.dev/badge/Node.js-339933.svg?variant=outline" alt="Node.js" />
