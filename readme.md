@@ -1,5 +1,5 @@
 <h1 align="center">OlekAleksander</h1>
-<sub>Aleksander R.</sub>
+<sub align="center">Aleksander R.</sub>
 
 <p align="center">
   <img src="https://shieldcn.dev/flag/pl.svg?variant=outline&label=based+in" alt="based in Poland" />
