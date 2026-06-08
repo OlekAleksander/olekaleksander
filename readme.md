@@ -1,8 +1,6 @@
 <p align="center">
-  <strong><font size="6">Aleksander R.</font></strong>
-</p>
-<p align="center">
-<sub>Aleksander R.</sub>
+  <strong><font size="20">OlekAleksander</font></strong>
+  <sub>Aleksander R.</sub>
 </p>
 
 <p align="center">
