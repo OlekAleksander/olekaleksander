@@ -6,11 +6,11 @@
 </p>
 
 <p>
-<a href="mailto:contact@olekaleksander.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-contact-dark.svg"><img alt="Contact" src="assets/link-contact-light.svg"></picture></a><a href="https://olekaleksander.dev/?utm_source=olekaleksander_github"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="Website" src="assets/link-website-light.svg"></picture></a><a href="https://x.com/olekaleksanderr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img alt="View profile on X" src="assets/link-x-light.svg"></picture></a>
+<a href="mailto:contact@olekaleksander.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-contact-dark.svg"><img alt="Contact" src="assets/link-contact-light.svg"></picture></a><a href="https://olekaleksander.dev/?utm_source=github"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="Website" src="assets/link-website-light.svg"></picture></a><a href="https://x.com/olekaleksanderr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img alt="View profile on X" src="assets/link-x-light.svg"></picture></a>
 </p>
 
 <p>
-<a href="https://summerhosting.pl/?utm_source=olekaleksander_github">
+<a href="https://summerhosting.pl/?utm_source=github">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
   <img alt="Work. SummerHosting, 2023 to now, Warsaw, Poland. Full-stack Engineer, Designer and sysadmin. Polish hosting provider for game servers, VPS and bare metal, on its own hardware and network. Built the customer-facing software: website, billing platform, status page, docs and more. Built internal CI/CD and automation services with scalability and performance in mind. Secure and harden every service, and carry out security research. Get 10% off a VPS with the code olekaleksander." src="assets/work-light.svg" width="100%">
